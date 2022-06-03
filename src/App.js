@@ -12,8 +12,6 @@ import { ColorModeSwitcher } from './ColorModeSwitcher';
 import { GiPerspectiveDiceSixFacesRandom } from 'react-icons/gi';
 import { getRandomQuestion } from './helpers/getRandomQuestion';
 
-import "@fontsource/charis-sil";
-
 const defaultClass = 'animate__animated animate__fadeIn';
 
 function App() {

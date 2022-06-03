@@ -1,0 +1,1799 @@
+[
+  {
+    "question": "What was the last funny video you saw?"
+  },
+  {
+    "question": "What do you do to get rid of stress?"
+  },
+  {
+    "question": "What is something you are obsessed with?"
+  },
+  {
+    "question": "What three words best describe you?"
+  },
+  {
+    "question": "What would be your perfect weekend?"
+  },
+  {
+    "question": "What’s your favorite number? Why?"
+  },
+  {
+    "question": "What are you going to do this weekend?"
+  },
+  {
+    "question": "What’s the most useful thing you own?"
+  },
+  {
+    "question": "What’s your favorite way to waste time?"
+  },
+  {
+    "question": "What do you think of tattoos? Do you have any?"
+  },
+  {
+    "question": "Do you have any pets? What are their names?"
+  },
+  {
+    "question": "Where did you go last weekend? / What did you do last weekend?"
+  },
+  {
+    "question": "What is something popular now that annoys you?"
+  },
+  {
+    "question": "What did you do on your last vacation?"
+  },
+  {
+    "question": "When was the last time you worked incredibly hard?"
+  },
+  {
+    "question": "Are you very active, or do you prefer to just relax in your free time?"
+  },
+  {
+    "question": "What do you do when you hang out with your friends?"
+  },
+  {
+    "question": "Who is your oldest friend? Where did you meet them?"
+  },
+  {
+    "question": "What’s the best / worst thing about your work/school?"
+  },
+  {
+    "question": "If you had intro music, what song would it be? Why?"
+  },
+  {
+    "question": "What were you really into when you were a kid?"
+  },
+  {
+    "question": "If you could have any animal as a pet, what animal would you choose?"
+  },
+  {
+    "question": "Have you ever saved an animal’s life? How about a person’s life?"
+  },
+  {
+    "question": "If you opened a business, what kind of business would it be?"
+  },
+  {
+    "question": "Who is your favorite entertainer (comedian, musician, actor, etc.)?"
+  },
+  {
+    "question": "Are you a very organized person?"
+  },
+  {
+    "question": "Have you ever given a presentation in front of a large group of people? How did it go?"
+  },
+  {
+    "question": "What is the strangest dream you have ever had?"
+  },
+  {
+    "question": "What is a controversial opinion you have?"
+  },
+  {
+    "question": "Who in your life brings you the most joy?"
+  },
+  {
+    "question": "Who had the biggest impact on the person you have become?"
+  },
+  {
+    "question": "What is the most annoying habit someone can have?"
+  },
+  {
+    "question": "Where is the most beautiful place you have been?"
+  },
+  {
+    "question": "Where do you spend most of your free time/day?"
+  },
+  {
+    "question": "Who was your best friend in elementary school?"
+  },
+  {
+    "question": "How often do you stay up past 3 a.m.?"
+  },
+  {
+    "question": "What’s your favorite season? Why?"
+  },
+  {
+    "question": "Which is more important, having a great car or a great house? Why?"
+  },
+  {
+    "question": "What animal or insect do you wish humans could eradicate?"
+  },
+  {
+    "question": "Where is the most beautiful place near where you live?"
+  },
+  {
+    "question": "What do you bring with you everywhere you go?"
+  },
+  {
+    "question": "How much time do you spend on the internet? What do you usually do?"
+  },
+  {
+    "question": "What is the most disgusting habit some people have?"
+  },
+  {
+    "question": "Where and when was the most amazing sunset you have ever seen?"
+  },
+  {
+    "question": "Which recent news story is the most interesting?"
+  },
+  {
+    "question": "Where is the worst place you have been stuck for a long time?"
+  },
+  {
+    "question": "If you had to change your name, what would your new name be?"
+  },
+  {
+    "question": "What is something that really annoys you but doesn’t bother most people?"
+  },
+  {
+    "question": "What word or saying from the past do you think should come back?"
+  },
+  {
+    "question": "How should success be measured? And by that measurement, who is the most successful person you know?"
+  },
+  {
+    "question": "What is your guilty pleasure?"
+  },
+  {
+    "question": "Was there ever an event in your life that defied explanation?"
+  },
+  {
+    "question": "If you could learn the answer to one question about your future, what would the question be?"
+  },
+  {
+    "question": "Has anyone ever saved your life?"
+  },
+  {
+    "question": "What benefit do you bring to the group when you hang out with friends?"
+  },
+  {
+    "question": "How often do you curse? And what’s your go-to string of curse words?"
+  },
+  {
+    "question": "What trends did you follow when you were younger?"
+  },
+  {
+    "question": "What do you fear is hiding in the dark?"
+  },
+  {
+    "question": "What was the best period of your life so far? What do you think will be the best period of your entire life?"
+  },
+  {
+    "question": "What do you do to improve your mood when you are in a bad mood?"
+  },
+  {
+    "question": "What is the silliest fear you have?"
+  },
+  {
+    "question": "What are some things you want to accomplish before you die?"
+  },
+  {
+    "question": "What is the best room in your house? Why?"
+  },
+  {
+    "question": "Who is someone popular now that you really like? Why do you like them so much?"
+  },
+  {
+    "question": "Where is the best place to take a date?"
+  },
+  {
+    "question": "What smell brings back great memories?"
+  },
+  {
+    "question": "What’s the best pet name you can come up with for a specific type of pet? (Like these orange cat names.)"
+  },
+  {
+    "question": "How often do you help others? Who do you help? How do you help?"
+  },
+  {
+    "question": "What are you best at?"
+  },
+  {
+    "question": "What makes you nervous?"
+  },
+  {
+    "question": "Who is the funniest person you’ve met?"
+  },
+  {
+    "question": "What weird or useless talent do you have?"
+  },
+  {
+    "question": "What are some strange beliefs that some people have?"
+  },
+  {
+    "question": "Who would be the worst person to be stuck in an elevator with? How about the best person to be stuck in an elevator with?"
+  },
+  {
+    "question": "What was the best birthday wish or gift you’ve ever received?"
+  },
+  {
+    "question": "What’s the best sitcom past or present?"
+  },
+  {
+    "question": "What’s the best show currently on TV?"
+  },
+  {
+    "question": "What will be the future of TV shows?"
+  },
+  {
+    "question": "How often do you binge watch shows?"
+  },
+  {
+    "question": "What cartoons did you watch as a child?"
+  },
+  {
+    "question": "What’s the funniest TV series you have seen?"
+  },
+  {
+    "question": "Which TV show do you want your life to be like?"
+  },
+  {
+    "question": "How have TV shows changed over the years?"
+  },
+  {
+    "question": "If you could bring back one TV show that was canceled, which one would you bring back?"
+  },
+  {
+    "question": "What do you think about game shows? Do you have a favorite one?"
+  },
+  {
+    "question": "What’s the most underrated or overrated TV show?"
+  },
+  {
+    "question": "What do you think about reality TV? Why do you think it’s so popular?"
+  },
+  {
+    "question": "Do you like reality TV shows? Why or why not? If so, which ones?"
+  },
+  {
+    "question": "What is the most overrated movie?"
+  },
+  {
+    "question": "What’s your favorite genre of movie?"
+  },
+  {
+    "question": "Which do you prefer? Books or movies?"
+  },
+  {
+    "question": "What movie scene choked you up the most?"
+  },
+  {
+    "question": "Do you like documentaries? Why / why not?"
+  },
+  {
+    "question": "What’s the worst movie you have seen recently?"
+  },
+  {
+    "question": "What’s the strangest movie you have ever seen?"
+  },
+  {
+    "question": "Do you like horror movies? Why or why not?"
+  },
+  {
+    "question": "When was the last time you went to a movie theater?"
+  },
+  {
+    "question": "What was the last movie you watched? How was it?"
+  },
+  {
+    "question": "Do movies have the same power as books to change the world?"
+  },
+  {
+    "question": "Do you prefer to watch movies in the theater or in the comfort of your own home?"
+  },
+  {
+    "question": "What was the last book you read?"
+  },
+  {
+    "question": "What was your favorite book as a child?"
+  },
+  {
+    "question": "Do you prefer physical books or ebooks?"
+  },
+  {
+    "question": "What is the longest book you’ve read?"
+  },
+  {
+    "question": "What book genres do you like to read?"
+  },
+  {
+    "question": "How fast do you read?"
+  },
+  {
+    "question": "How often do you go to the library?"
+  },
+  {
+    "question": "What book has influenced you the most?"
+  },
+  {
+    "question": "Do you prefer fiction or nonfiction books?"
+  },
+  {
+    "question": "What book has changed one of your long-held opinions?"
+  },
+  {
+    "question": "What book has had the biggest effect on the modern world?"
+  },
+  {
+    "question": "What was the worst book you had to read for school? How about the best book you had to read for school?"
+  },
+  {
+    "question": "Do you think people read more or fewer books now than 50 years ago?"
+  },
+  {
+    "question": "Now that indie publishing has become easier, have books gotten better or worse?"
+  },
+  {
+    "question": "What was the last song you listened to?"
+  },
+  {
+    "question": "What is your favorite movie soundtrack?"
+  },
+  {
+    "question": "Do you like classical music?"
+  },
+  {
+    "question": "What song always puts you in a good mood?"
+  },
+  {
+    "question": "What’s the best way to discover new music?"
+  },
+  {
+    "question": "How has technology changed the music industry?"
+  },
+  {
+    "question": "Are there any songs that always bring a tear to your eye?"
+  },
+  {
+    "question": "What bands or types of music do you listen to when you exercise?"
+  },
+  {
+    "question": "Which do you prefer, popular music or relatively unknown music?"
+  },
+  {
+    "question": "Do you like going to concerts? Why or why not? What was the last concert you went to?"
+  },
+  {
+    "question": "Who was the first band or musician you were really into? Do you still like them?"
+  },
+  {
+    "question": "Records, tapes, CDs, MP3s, streaming. Which did you grow up with? What is good and bad about each?"
+  },
+  {
+    "question": "What are the three best apps on your phone?"
+  },
+  {
+    "question": "What is the most useful app on your phone?"
+  },
+  {
+    "question": "What do app makers do that really annoys you?"
+  },
+  {
+    "question": "How many apps do you have on your phone?"
+  },
+  {
+    "question": "What’s the most frustrating app you have tried?"
+  },
+  {
+    "question": "What’s the most addictive mobile game you have played?"
+  },
+  {
+    "question": "Which app seemed like magic the first time you used it?"
+  },
+  {
+    "question": "What is the strangest app you have heard of or tried?"
+  },
+  {
+    "question": "What’re the best and worst things about the marketplace where you get your apps?"
+  },
+  {
+    "question": "Which app has helped society the most? Which one has hurt society the most?"
+  },
+  {
+    "question": "An app mysteriously appears on your phone that does something amazing. What does it do?"
+  },
+  {
+    "question": "How often do you check your phone?"
+  },
+  {
+    "question": "Do you text more or call more? Why?"
+  },
+  {
+    "question": "What will phones be like in 10 years?"
+  },
+  {
+    "question": "What do you wish your phone could do?"
+  },
+  {
+    "question": "Do you always have to have the latest phone?"
+  },
+  {
+    "question": "What is the most annoying thing about your phone?"
+  },
+  {
+    "question": "How do you feel if you accidentally leave your phone at home?"
+  },
+  {
+    "question": "What kind of case do you have for your phone? Why did you choose it?"
+  },
+  {
+    "question": "What was your first smartphone? How did you feel when you got it?"
+  },
+  {
+    "question": "Do you experience phantom vibration? (Feeling your phone vibrate even though it didn’t.)"
+  },
+  {
+    "question": "What sports do you like to watch?"
+  },
+  {
+    "question": "Who are some of your favorite athletes?"
+  },
+  {
+    "question": "Which sports do you like to play"
+  },
+  {
+    "question": "What is the hardest sport to excel at?"
+  },
+  {
+    "question": "Who are the 3 greatest athletes of all time?"
+  },
+  {
+    "question": "How much time do you spend watching sports in a week?"
+  },
+  {
+    "question": "Do athletes deserve the high salaries they receive? Why or why not?"
+  },
+  {
+    "question": "What defines a sport? Is fishing a sport? How about video game tournaments?"
+  },
+  {
+    "question": "Do you play in any fantasy sports leagues? If so, how into fantasy sports are you?"
+  },
+  {
+    "question": "Why do you think sports are common across almost all cultures present and past?"
+  },
+  {
+    "question": "Do you play sports video games? Which ones? Is playing the video game or playing the sport more fun? Why?"
+  },
+  {
+    "question": "Which sport is the most exciting to watch? Which is the most boring to watch?"
+  },
+  {
+    "question": "What restaurant do you eat at most?"
+  },
+  {
+    "question": "What’s the worst fast food restaurant?"
+  },
+  {
+    "question": "What is the best restaurant in your area?"
+  },
+  {
+    "question": "What is the fanciest restaurant you have eaten at?"
+  },
+  {
+    "question": "What kind of interior do you like a restaurant to have?"
+  },
+  {
+    "question": "What is the worst restaurant you have ever eaten at?"
+  },
+  {
+    "question": "If you opened a restaurant, what kind of food would you serve?"
+  },
+  {
+    "question": "What is the strangest themed restaurant you have heard of?"
+  },
+  {
+    "question": "Would you eat at a restaurant that was really dirty if the food was amazing?"
+  },
+  {
+    "question": "What is the most disgusting thing you have heard happened at a restaurant?"
+  },
+  {
+    "question": "What was your favorite restaurant when you were a child?"
+  },
+  {
+    "question": "Where would you like to travel next?"
+  },
+  {
+    "question": "What is the longest plane trip you have taken?"
+  },
+  {
+    "question": "What’s the best way to travel? (Plane, car, train, etc.)"
+  },
+  {
+    "question": "Where is the most relaxing place you have been?"
+  },
+  {
+    "question": "Do you prefer traveling alone or with a group?"
+  },
+  {
+    "question": "What do you think of tour group packages?"
+  },
+  {
+    "question": "Do you prefer to go off the beaten path when you travel?"
+  },
+  {
+    "question": "What was the most overhyped place you’ve traveled to?"
+  },
+  {
+    "question": "Have you traveled to any different countries? Which ones?"
+  },
+  {
+    "question": "Where is the most awe-inspiring place you have been?"
+  },
+  {
+    "question": "What’s the best thing about traveling? How about the worst thing?"
+  },
+  {
+    "question": "What is the worst hotel you have stayed at? How about the best hotel?"
+  },
+  {
+    "question": "How do you think traveling to a lot of different countries changes a person?"
+  },
+  {
+    "question": "Talk about some of the interesting people you have met while traveling."
+  },
+  {
+    "question": "What do you think of staycations? (Vacationing and seeing tourist attractions where you live.)"
+  },
+  {
+    "question": "Where do you get your recommendations for what to do and where to stay when you travel?"
+  },
+  {
+    "question": "What is your favorite piece of technology that you own?"
+  },
+  {
+    "question": "What piece of technology is really frustrating to use?"
+  },
+  {
+    "question": "What was the best invention of the last 50 years?"
+  },
+  {
+    "question": "Does technology simplify life or make it more complicated?"
+  },
+  {
+    "question": "Will technology save the human race or destroy it?"
+  },
+  {
+    "question": "Which emerging technology are you most excited about?"
+  },
+  {
+    "question": "What sci-fi movie or book would you like the future to be like?"
+  },
+  {
+    "question": "What do you think the next big technological advance will be?"
+  },
+  {
+    "question": "What technology from a science fiction movie would you most like to have?"
+  },
+  {
+    "question": "What problems will technology solve in the next 5 years? What problems will it create?"
+  },
+  {
+    "question": "What piece of technology would look like magic or a miracle to people in medieval Europe?"
+  },
+  {
+    "question": "Can you think of any technology that has only made the world worse? How about a piece of technology that has only made the world better?"
+  },
+  {
+    "question": "What is your favorite shirt?"
+  },
+  {
+    "question": "Does fashion help society in any way?"
+  },
+  {
+    "question": "What old trend is coming back these days?"
+  },
+  {
+    "question": "What is a fashion trend you are really glad went away?"
+  },
+  {
+    "question": "What is the most comfortable piece of clothing you own?"
+  },
+  {
+    "question": "What is the most embarrassing piece of clothing you own?"
+  },
+  {
+    "question": "How do clothes change how the opposite sex views a person?"
+  },
+  {
+    "question": "Do you care about fashion? What style of clothes do you usually wear?"
+  },
+  {
+    "question": "If you didn’t care at all what people thought of you, what clothes would you wear?"
+  },
+  {
+    "question": "What is the best pair of shoes you have ever owned? Why were they so good?"
+  },
+  {
+    "question": "Who do you think has the biggest impact on fashion trends: actors and actresses, musicians, fashion designers, or consumers?"
+  },
+  {
+    "question": "What personal goals do you have?"
+  },
+  {
+    "question": "What are your goals for the next two years?"
+  },
+  {
+    "question": "How have your goals changed over your life?"
+  },
+  {
+    "question": "How much do you plan for the future?"
+  },
+  {
+    "question": "How do you plan to make the world a better place?"
+  },
+  {
+    "question": "What are some goals you have already achieved?"
+  },
+  {
+    "question": "What do you hope to achieve in your professional life?"
+  },
+  {
+    "question": "Have your parents influenced what goals you have?"
+  },
+  {
+    "question": "Do you usually achieve the goals you set? Why or why not?"
+  },
+  {
+    "question": "What is the best way to stay motivated and complete goals?"
+  },
+  {
+    "question": "What are some goals you have failed to accomplish?"
+  },
+  {
+    "question": "What is the craziest, most outrageous thing you want to achieve?"
+  },
+  {
+    "question": "When do you want to retire? What do you want to do when you retire?"
+  },
+  {
+    "question": "Do you prefer summer or winter activities?"
+  },
+  {
+    "question": "What do you like to do in the spring?"
+  },
+  {
+    "question": "Did your family take seasonal vacations?"
+  },
+  {
+    "question": "Which do you prefer, fall or spring?"
+  },
+  {
+    "question": "Which season are you most active in?"
+  },
+  {
+    "question": "What’s the most refreshing thing on a hot summer day?"
+  },
+  {
+    "question": "What’s the best thing to do on a cold winter day?"
+  },
+  {
+    "question": "Where is the nicest place you have been to in fall?"
+  },
+  {
+    "question": "What is your favorite thing to eat or drink in winter?"
+  },
+  {
+    "question": "Is it better to live where there are four seasons or where one season takes up most of the year?"
+  },
+  {
+    "question": "What is the biggest holiday for your family?"
+  },
+  {
+    "question": "What is your favorite holiday?"
+  },
+  {
+    "question": "What holidays have been over-commercialized?"
+  },
+  {
+    "question": "Do you wish there were more or fewer holidays? Why?"
+  },
+  {
+    "question": "What do you know about the history of some holidays?"
+  },
+  {
+    "question": "What kinds of food do you usually eat on your favorite holiday?"
+  },
+  {
+    "question": "If you had to get rid of a holiday, which would you get rid of? Why?"
+  },
+  {
+    "question": "Does having a day off for a holiday increase or decrease productivity at work?"
+  },
+  {
+    "question": "If some of the lesser-known holidays were commercialized, what would the commercialization look like?"
+  },
+  {
+    "question": "If you could make a holiday, what would it be like? What traditions would it have? What would people eat on your holiday?"
+  },
+  {
+    "question": "What do you think of online education?"
+  },
+  {
+    "question": "What do you think of standardized tests?"
+  },
+  {
+    "question": "Are bigger or smaller schools better?"
+  },
+  {
+    "question": "Is teaching a skill that can be taught?"
+  },
+  {
+    "question": "What will the future of education be?"
+  },
+  {
+    "question": "What do you think of homeschooling?"
+  },
+  {
+    "question": "How can governments make education more efficient?"
+  },
+  {
+    "question": "How has the education you received changed your life?"
+  },
+  {
+    "question": "How can technology improve education? Can it hurt education?"
+  },
+  {
+    "question": "What or who has taught you most of the information you use regularly?"
+  },
+  {
+    "question": "What are some good and bad things about the education system in your country?"
+  },
+  {
+    "question": "What is your favorite cuisine or type of food?"
+  },
+  {
+    "question": "What foods do you absolutely hate?"
+  },
+  {
+    "question": "What do you think of buffets?"
+  },
+  {
+    "question": "When was the last time you had a food fight?"
+  },
+  {
+    "question": "What food looks disgusting but tastes delicious?"
+  },
+  {
+    "question": "What do you get every time you go grocery shopping?"
+  },
+  {
+    "question": "If your life was a meal, what would kind of meal would it be?"
+  },
+  {
+    "question": "What would you want your last meal to be if you were on death row?"
+  },
+  {
+    "question": "What food do you know you shouldn’t eat but can’t stop yourself?"
+  },
+  {
+    "question": "Do you like spicy food? Why or why not? What is the spiciest thing you have ever eaten?"
+  },
+  {
+    "question": "Does the government have a place in regulating food? To what extent should government regulate food?"
+  },
+  {
+    "question": "When people make mistakes about food (especially foreign food), do you feel the need to correct them? (i.e. sushi / sashimi or stromboli / calzone)"
+  },
+  {
+    "question": "If your mind were an island, what would it look like?"
+  },
+  {
+    "question": "What flavor of ice cream do you wish existed?"
+  },
+  {
+    "question": "If you had a personal mascot, what would your mascot be?"
+  },
+  {
+    "question": "If you were a king/queen, what would your throne look like?"
+  },
+  {
+    "question": "Time freezes for everyone but you for one day. What do you do?"
+  },
+  {
+    "question": "You have to relive one day of your life forever. Which day do you choose?"
+  },
+  {
+    "question": "What does your own personal hell look like? How about your own personal heaven?"
+  },
+  {
+    "question": "You find a remote that can rewind, fast forward, stop, and start time. What do you do with it?"
+  },
+  {
+    "question": "If you could call up anyone in the world and have a one-hour conversation, who would you call?"
+  },
+  {
+    "question": "The world has become infested with rabid dogs with the intelligence of a 5-year-old, where do you hole up to survive the “a-pup-calypse”?"
+  },
+  {
+    "question": "A portal to another world opens in front of you. You don’t know how long it will stay open or if you’ll be able to get back after you go through. What do you do?"
+  },
+  {
+    "question": "If you were in a circus, which character would you be?"
+  },
+  {
+    "question": "What is the worst advice you have given?"
+  },
+  {
+    "question": "What is one thing you should never say at a wedding?"
+  },
+  {
+    "question": "What is the worst pickup line you have ever heard?"
+  },
+  {
+    "question": "If you could only store one type of food in your pocket, what would you carry?"
+  },
+  {
+    "question": "What is the worst present you have ever received and why?"
+  },
+  {
+    "question": "If you were a farm animal, which would you be and why?"
+  },
+  {
+    "question": "What is the worst first date you have ever been on?"
+  },
+  {
+    "question": "Have you ever stalked someone on social media?"
+  },
+  {
+    "question": "What is the best part about taking a selfie?"
+  },
+  {
+    "question": "What is your favorite celebrity scandal?"
+  },
+  {
+    "question": "If you could do anything illegal without getting caught, what would you do?"
+  },
+  {
+    "question": "What is the weirdest food combination you’ve ever tried?"
+  },
+  {
+    "question": "Did you have an imaginary friend? What was his/her name?"
+  },
+  {
+    "question": "Have you ever had a dream where everyone was in their underwear?"
+  },
+  {
+    "question": "Who’s your favorite comedian?"
+  },
+  {
+    "question": "Have you ever been on a blind date?"
+  },
+  {
+    "question": "If you could make up a school subject, what would it be?"
+  },
+  {
+    "question": "What is your very favorite letter of the alphabet? Why?"
+  },
+  {
+    "question": "If someone gave you 20 dollars, what would you buy with it?"
+  },
+  {
+    "question": "If you had a chance to eat dessert for breakfast every day, what dessert would you choose?"
+  },
+  {
+    "question": "What is the first thing you think about when you wake up in the morning?"
+  },
+  {
+    "question": "Which animal at the zoo do you like best?"
+  },
+  {
+    "question": "If your friend is sad, what do you do to make them feel better?"
+  },
+  {
+    "question": "If you had the opportunity to invent a new ice cream flavor, what would it be?"
+  },
+  {
+    "question": "What is the silliest thing someone has ever said to you?"
+  },
+  {
+    "question": "What’s your idea of a perfect playground?"
+  },
+  {
+    "question": "What’s your favorite word?"
+  },
+  {
+    "question": "Would you switch roles with your parent if you had the chance?"
+  },
+  {
+    "question": "When was the last time you used the words “thank you”?"
+  },
+  {
+    "question": "If you had a robot for the entire day, what would you ask it to do?"
+  },
+  {
+    "question": "Do you prefer cold weather or hot weather?"
+  },
+  {
+    "question": "If you never had to eat one vegetable, which would it be?"
+  },
+  {
+    "question": "What was the last thing that made you smile?"
+  },
+  {
+    "question": "What is your favorite part about school? Your least favorite?"
+  },
+  {
+    "question": "How do you make friends?"
+  },
+  {
+    "question": "Who makes you laugh the most?"
+  },
+  {
+    "question": "What do you most like about yourself?"
+  },
+  {
+    "question": "What hurts your feelings?"
+  },
+  {
+    "question": "If you could be famous, would you want to? Why?"
+  },
+  {
+    "question": "Who is a celebrity you admire?"
+  },
+  {
+    "question": "What made you laugh at school today?"
+  },
+  {
+    "question": "Did anything make you upset today?"
+  },
+  {
+    "question": "If you could have more friends, would you?"
+  },
+  {
+    "question": "What do you like most about your friends?"
+  },
+  {
+    "question": "Is there anyone at school you’d like to know better?"
+  },
+  {
+    "question": "Have you ever lost a friend? Why?"
+  },
+  {
+    "question": "Where do you want to be ten years from now?"
+  },
+  {
+    "question": "If you had $100, what would you spend it on?"
+  },
+  {
+    "question": "Is there something you’d want to do as a family?"
+  },
+  {
+    "question": "If you were to choose one way to be disciplined, what would it be?"
+  },
+  {
+    "question": "What do you think are the best traits for a person to have?"
+  },
+  {
+    "question": "Would you ever get a tattoo? What would it be?"
+  },
+  {
+    "question": "What do you think is a good age to start dating?"
+  },
+  {
+    "question": "Why do you think popular kids are popular?"
+  },
+  {
+    "question": "If you could go anywhere in the world, where would you choose and why?"
+  },
+  {
+    "question": "What is something you wish you could do everyday?"
+  },
+  {
+    "question": "What are the top three things on your bucket list?"
+  },
+  {
+    "question": "How do you think you will die?"
+  },
+  {
+    "question": "What has been the lowest point of your life?"
+  },
+  {
+    "question": "If you could ask for a miracle, what would it be?"
+  },
+  {
+    "question": "Where do you see yourself in five years?"
+  },
+  {
+    "question": "What is the biggest risk you’ve ever taken?"
+  },
+  {
+    "question": "What would your ideal life look like?"
+  },
+  {
+    "question": "If someone gave you an envelope with your death date inside of it, would you open it?"
+  },
+  {
+    "question": "When have you been the most happy?"
+  },
+  {
+    "question": "Do you know anyone who is living their life to the fullest?"
+  },
+  {
+    "question": "What is your idea of the perfect day?"
+  },
+  {
+    "question": "Who has been the most influential person in your life and why?"
+  },
+  {
+    "question": "What book had a big influence on you?"
+  },
+  {
+    "question": "Do you think your priorities have changed since you were younger?"
+  },
+  {
+    "question": "What is the most memorable lesson you learned from your parents?"
+  },
+  {
+    "question": "What does success mean to you?"
+  },
+  {
+    "question": "What is the most difficult thing you’ve ever done?"
+  },
+  {
+    "question": "What scares you most about your future?"
+  },
+  {
+    "question": "What keeps you up at night?"
+  },
+  {
+    "question": "What do you think people need to know about each other before they get married?"
+  },
+  {
+    "question": "What makes you very sentimental?"
+  },
+  {
+    "question": "What do I do that makes you smile?"
+  },
+  {
+    "question": "What is the best or worst trait you inherited from your parents?"
+  },
+  {
+    "question": "What is your funniest memory of our dates?"
+  },
+  {
+    "question": "Who was your first crush and why?"
+  },
+  {
+    "question": "What three things do you want to be remembered for?"
+  },
+  {
+    "question": "Is there a dream you’ve always had?"
+  },
+  {
+    "question": "What is something you’ve always wanted to do, but are scared to?"
+  },
+  {
+    "question": "What gives you butterflies?"
+  },
+  {
+    "question": "What do you consider most romantic?"
+  },
+  {
+    "question": "What motivates you most in life?"
+  },
+  {
+    "question": "What things do you consider to be relationship deal breakers?"
+  },
+  {
+    "question": "Do you think arguing is part of a relationship?"
+  },
+  {
+    "question": "If we were to raise children, what are the most important things you would want them to learn?"
+  },
+  {
+    "question": "How would you describe our relationship?"
+  },
+  {
+    "question": "How would your partner describe you?"
+  },
+  {
+    "question": "Do you consider yourself a spiritual person? How?"
+  },
+  {
+    "question": "If you made a bucket list for us, what would you add to it?"
+  },
+  {
+    "question": "How has our relationship changed since we started dating?"
+  },
+  {
+    "question": "What do I do that comforts you the most?"
+  },
+  {
+    "question": "In what ways are you most similar to me?"
+  },
+  {
+    "question": "What makes you feel discouraged?"
+  },
+  {
+    "question": "What is a significant event that has changed you?"
+  },
+  {
+    "question": "If your life was a movie, which celebrity would play you?"
+  },
+  {
+    "question": "What’s something not many people know about you?"
+  },
+  {
+    "question": "What are you most passionate about?"
+  },
+  {
+    "question": "What makes you laugh out loud?"
+  },
+  {
+    "question": "What was your favorite thing to do as a kid?"
+  },
+  {
+    "question": "Who do you text the most?"
+  },
+  {
+    "question": "What do you like to cook the most?"
+  },
+  {
+    "question": "What’s your favorite TV show?"
+  },
+  {
+    "question": "What is your favorite book?"
+  },
+  {
+    "question": "Who is most influential in your life?"
+  },
+  {
+    "question": "What was your best friend’s name growing up?"
+  },
+  {
+    "question": "How do you spend your mornings?"
+  },
+  {
+    "question": "What’s your all-time favorite band?"
+  },
+  {
+    "question": "What’s your dream job?"
+  },
+  {
+    "question": "What did you study?"
+  },
+  {
+    "question": "What did you want to be growing up?"
+  },
+  {
+    "question": "What is the best pickup line you’ve ever used? Heard?"
+  },
+  {
+    "question": "Do you have any nicknames?"
+  },
+  {
+    "question": "What talent do you wish you had?"
+  },
+  {
+    "question": "Where do you see yourself living when you retire?"
+  },
+  {
+    "question": "What is your favorite weekend activity?"
+  },
+  {
+    "question": "Do you have any pet peeves?"
+  },
+  {
+    "question": "Who was your favorite teacher and why?"
+  },
+  {
+    "question": "What makes you most uncomfortable about dating?"
+  },
+  {
+    "question": "What is your favorite place in the entire world?"
+  },
+  {
+    "question": "If you could have dinner with anyone living or not, who would it be?"
+  },
+  {
+    "question": "Are you a cat person or a dog person?"
+  },
+  {
+    "question": "What is the silliest thing you’ve posted online?"
+  },
+  {
+    "question": "What was your worst wardrobe mistake?"
+  },
+  {
+    "question": "What is the best restaurant you’ve been to?"
+  },
+  {
+    "question": "What is your favorite kitchen smell?"
+  },
+  {
+    "question": "When you die, what do you want to be reincarnated as?"
+  },
+  {
+    "question": "What is your favorite guilty pleasure TV show?"
+  },
+  {
+    "question": "What was your worst “foot in mouth” moment?"
+  },
+  {
+    "question": "Who would you swap lives with for a day?"
+  },
+  {
+    "question": "If you could live anywhere in the world, where would it be?"
+  },
+  {
+    "question": "What is the strangest gift you have ever received?"
+  },
+  {
+    "question": "What is the funniest gift you have ever given?"
+  },
+  {
+    "question": "What are three fun facts about yourself?"
+  },
+  {
+    "question": "What’s the best compliment you’ve ever received?"
+  },
+  {
+    "question": "Would you rather be invisible or have X-ray vision?"
+  },
+  {
+    "question": "If you could only save one item from a house fire, what would it be?"
+  },
+  {
+    "question": "What is the one food you could eat for the rest of your life?"
+  },
+  {
+    "question": "How do you know (person hosting dinner)?"
+  },
+  {
+    "question": "If you won the lottery, what would be your first big splurge?"
+  },
+  {
+    "question": "What’s one movie you could watch over and over?"
+  },
+  {
+    "question": "Where’s the most exotic place you’ve ever been?"
+  },
+  {
+    "question": "If you could have picked your own name, what would it be?"
+  },
+  {
+    "question": "What time period would you travel to?"
+  },
+  {
+    "question": "What is one thing you can’t live without?"
+  },
+  {
+    "question": "What is your least favorite chore?"
+  },
+  {
+    "question": "What is your earliest memory?"
+  },
+  {
+    "question": "Who are you most thankful for and why?"
+  },
+  {
+    "question": "Where do you want to go on the next family vacation?"
+  },
+  {
+    "question": "What’s the nicest thing a family member has ever done for you?"
+  },
+  {
+    "question": "What was the biggest punishment you’ve ever received?"
+  },
+  {
+    "question": "If you could describe yourself in three words, what would they be?"
+  },
+  {
+    "question": "What would be the first thing you would do if you traded places with your family member?"
+  },
+  {
+    "question": "What instrument would you like to play?"
+  },
+  {
+    "question": "If you could get all your family members to donate to a charity, what would it be and why?"
+  },
+  {
+    "question": "Would you want to live on a boat, a mountain or an island?"
+  },
+  {
+    "question": "What makes you most proud?"
+  },
+  {
+    "question": "What three things are you most grateful for?"
+  },
+  {
+    "question": "Who do you count on the most for help?"
+  },
+  {
+    "question": "What would make you (if parent) most upset? A tattoo, a nose ring or a bad boyfriend/girlfriend?"
+  },
+  {
+    "question": "What would be your ideal day?"
+  },
+  {
+    "question": "What makes you the happiest?"
+  },
+  {
+    "question": "If you could spend an entire day with a family member, who would it be and why?"
+  },
+  {
+    "question": "If you could be an animal, what would it be and why?"
+  },
+  {
+    "question": "If you could be any age, what age would you choose?"
+  },
+  {
+    "question": "What’s one thing you’ve won and how did you win it?"
+  },
+  {
+    "question": "What did you think was the most challenging part of being a kid?"
+  },
+  {
+    "question": "When is the last time you laughed so hard that you cried?"
+  },
+  {
+    "question": "How did you hear about this event?"
+  },
+  {
+    "question": "What was the first job you ever had?"
+  },
+  {
+    "question": "What’s a good place to eat around here?"
+  },
+  {
+    "question": "What are you reading right now?"
+  },
+  {
+    "question": "How was your commute here?"
+  },
+  {
+    "question": "What fun plans do you have for the weekend?"
+  },
+  {
+    "question": "What cool conferences have you attended?"
+  },
+  {
+    "question": "How long have you been at your current job?"
+  },
+  {
+    "question": "What’s the most fun project you’ve ever worked on?"
+  },
+  {
+    "question": "Did you hear about (insert latest news topic)?"
+  },
+  {
+    "question": "Where do you see yourself in five years?"
+  },
+  {
+    "question": "Have you ever won an award?"
+  },
+  {
+    "question": "How old were you when you had your first job?"
+  },
+  {
+    "question": "How long can you go without checking your phone?"
+  },
+  {
+    "question": "Have you ever really kept a New Year’s resolution?"
+  },
+  {
+    "question": "What bad habits do you wish you could stop?"
+  },
+  {
+    "question": "Do you have a morning ritual?"
+  },
+  {
+    "question": "Have you ever been stalked on social media?"
+  },
+  {
+    "question": "Can you tell when someone is lying?"
+  },
+  {
+    "question": "Are you a jealous person?"
+  },
+  {
+    "question": "Do you prefer polaroid or digital cameras?"
+  },
+  {
+    "question": "If someone offered to tell you your future, would you accept it?"
+  },
+  {
+    "question": "Who’s your biggest hero?"
+  },
+  {
+    "question": "Have you ever stolen anything?"
+  },
+  {
+    "question": "If you were to remove one social media app from your phone, which would it be and why?"
+  },
+  {
+    "question": "If you could have tea with a fictional character, who would that be?"
+  },
+  {
+    "question": "What is your most embarrassing moment?"
+  },
+  {
+    "question": "If you were on death row, what would your last meal be?"
+  },
+  {
+    "question": "If you could sit down with your 13-year old self, what would you say?"
+  },
+  {
+    "question": "If you could only pack one thing for a trip (besides clothing) what would it be?"
+  },
+  {
+    "question": "What makes you really angry?"
+  },
+  {
+    "question": "What is your spirit animal?"
+  },
+  {
+    "question": "What would be the title of your memoire?"
+  },
+  {
+    "question": "What’s your guilty pleasure?"
+  },
+  {
+    "question": "What would your theme song be if you had your own show?"
+  },
+  {
+    "question": "What bores you?"
+  },
+  {
+    "question": "What would you do if you were home alone and the power went out?"
+  },
+  {
+    "question": "What’s the weirdest dream you’ve ever had?"
+  },
+  {
+    "question": "If your plane was going down, who would you would call?"
+  },
+  {
+    "question": "What would your rock band group be called?"
+  },
+  {
+    "question": "What drink do you suggest I get?"
+  },
+  {
+    "question": "How do you get to X place from here?"
+  },
+  {
+    "question": "Where is a good place to get food around here?"
+  },
+  {
+    "question": "I’m NAME, what’s your name?"
+  },
+  {
+    "question": "Are you having a good time?"
+  },
+  {
+    "question": "Batman or Superman, who would win?"
+  },
+  {
+    "question": "This song is so overplayed, I’d rather hear X. How about you?"
+  },
+  {
+    "question": "What’s the worst thing one can say on a first date?"
+  },
+  {
+    "question": "What made you laugh this week?"
+  },
+  {
+    "question": "Are you having a good evening?"
+  },
+  {
+    "question": "What do you think of this place?"
+  },
+  {
+    "question": "Which scent do you find the most soothing?"
+  },
+  {
+    "question": "What is a language you love to listen to even if you don’t speak or understand it?"
+  },
+  {
+    "question": "Oceans or mountains? Why?"
+  },
+  {
+    "question": "Describe the most captivating painting or artwork you’ve ever seen."
+  },
+  {
+    "question": "Do you remember the first novel you ever read? If so, what was it?"
+  },
+  {
+    "question": "What is your favorite thing about your personality?"
+  },
+  {
+    "question": "If you could have a fictional superhero for a best friend, who would it be?"
+  },
+  {
+    "question": "What color would you choose to describe yourself?"
+  },
+  {
+    "question": "What is something you have accomplished as an adult that your younger self would be proud of?"
+  },
+  {
+    "question": "Is there a place in the world that you feel most represents who you are?"
+  },
+  {
+    "question": "Where is one place you’d love to travel to again?"
+  },
+  {
+    "question": "If your pet could talk, what would their voice sound like? What would they say about you?"
+  },
+  {
+    "question": "What does your name mean?"
+  },
+  {
+    "question": "What tasks make you feel like your best self?"
+  },
+  {
+    "question": "What’s your Enneagram number and how does it influence your self-care practices?"
+  },
+  {
+    "question": "Where do you feel most centered and happy?"
+  },
+  {
+    "question": "What’s your favorite comfort food?"
+  },
+  {
+    "question": "What do you wear when you’re feeling your very best, and why?"
+  },
+  {
+    "question": "What is the best meal you’ve ever had, and what’s the best meal you’ve ever cooked for yourself?"
+  },
+  {
+    "question": "What do you love most about your home?"
+  },
+  {
+    "question": "What’s a yearbook-style superlative you’d give to your high school self? What’s one for your current self?"
+  },
+  {
+    "question": "What gives you goosebumps?"
+  },
+  {
+    "question": "Do you know your astrology sign? Your birth chart?"
+  },
+  {
+    "question": "How are you consciously practicing sustainability?"
+  },
+  {
+    "question": "Do you have any tattoos?"
+  },
+  {
+    "question": "Scuba diving or skydiving?"
+  },
+  {
+    "question": "What are you most grateful for in this season of life?"
+  },
+  {
+    "question": "Do you give back or volunteer with any organizations?"
+  },
+  {
+    "question": "What’s your love language?"
+  },
+  {
+    "question": "What do you look for and need in your friendships?"
+  },
+  {
+    "question": "How do you feel that you best offer love and support to your friends?"
+  },
+  {
+    "question": "Tell me about your childhood best friend."
+  },
+  {
+    "question": "When do you feel most authentically yourself?"
+  },
+  {
+    "question": "What's one form of self-expression you've been too hesitant to explore?"
+  },
+  {
+    "question": "What's one habit you want to get rid of and one habit you want to keep?"
+  },
+  {
+    "question": "What was your first experience with sex like?"
+  },
+  {
+    "question": "If you were to perform a duet with a famous musician, who would it be and why?"
+  },
+  {
+    "question": "Do you have any recurring dreams? If so, what do you think they are trying to tell you?"
+  },
+  {
+    "question": "Who do you most admire, and how has that impacted the way you live your life?"
+  },
+  {
+    "question": "What’s one thing you’d tell yourself at my age? What’s one thing your younger self would tell you?"
+  },
+  {
+    "question": "What do you wish you’d known before having kids?"
+  },
+  {
+    "question": "What was the first big purchase you made as an adult?"
+  },
+  {
+    "question": "How did you know when you fell in love?"
+  },
+  {
+    "question": "Have you kept any memorabilia from your childhood?"
+  },
+  {
+    "question": "What do you miss most about being a child? A teenager? My age?"
+  },
+  {
+    "question": "What about the current world would be most surprising to your younger self?"
+  },
+  {
+    "question": "If you could travel back in time, which part of your life would you go back to?"
+  },
+  {
+    "question": "Who did you vote for in past elections? Why?"
+  },
+  {
+    "question": "What’s one of your favorite memories about your parents?"
+  },
+  {
+    "question": "If you could have one cartoon character be your real life best friend, who would you choose and why?"
+  },
+  {
+    "question": "What’s your earliest memory?"
+  },
+  {
+    "question": "What do you love most about school?"
+  },
+  {
+    "question": "Who are your best friends?"
+  },
+  {
+    "question": "What is your favorite season?"
+  },
+  {
+    "question": "What superpower do you wish you had?"
+  },
+  {
+    "question": "What do you want to be when you grow up?"
+  },
+  {
+    "question": "If you could have any animal as a pet, which would you choose and why?"
+  },
+  {
+    "question": "What does a perfect day with the family look like?"
+  },
+  {
+    "question": "What do you love most about our house?"
+  },
+  {
+    "question": "How do you feel best supported in hard times?"
+  },
+  {
+    "question": "What does “alone time” look like for you?"
+  },
+  {
+    "question": "Dogs or cats (or rabbits)?"
+  },
+  {
+    "question": "What do you wish people better understood about you?"
+  },
+  {
+    "question": "What lessons from your childhood have most impacted your worldview?"
+  },
+  {
+    "question": "If we could live in another country for a year (no strings attached), where would we go?"
+  },
+  {
+    "question": "What do you love most about our relationship? What do you wish to work on?"
+  },
+  {
+    "question": "What small joys bring light to your day?"
+  },
+  {
+    "question": "How can we better practice sustainability as a couple?"
+  },
+  {
+    "question": "What’s a favorite memory you have of us together?"
+  },
+  {
+    "question": "What’s one of your favorite memories from our childhood?"
+  },
+  {
+    "question": "What do you think everyone in the family will be doing years from now?"
+  },
+  {
+    "question": "Do you have a morning routine?"
+  },
+  {
+    "question": "What was your favorite subject in school? Favorite teacher?"
+  },
+  {
+    "question": "Which characteristics do you think you inherited from our parents?"
+  },
+  {
+    "question": "If you could return to school, what would you study?"
+  },
+  {
+    "question": "What Netflix show or movie are you marathon-watching?"
+  },
+  {
+    "question": "What are you currently reading?"
+  },
+  {
+    "question": "What food reminds you most of home?"
+  },
+  {
+    "question": "What do you love most about yourself?"
+  },
+  {
+    "question": "What accomplishments are you most proud of?"
+  },
+  {
+    "question": "What projects are you working on right now that bring you joy?"
+  },
+  {
+    "question": "How do you unwind after work?"
+  },
+  {
+    "question": "Do you listen to any podcasts during your commute? If so, which ones?"
+  },
+  {
+    "question": "What do you enjoy most about our company?"
+  },
+  {
+    "question": "Where do you need support that you’re not getting it?"
+  },
+  {
+    "question": "How do you track your work goals and accomplishments?"
+  },
+  {
+    "question": "Do you enjoy networking? Why or why not?"
+  },
+  {
+    "question": "What was your very first job?"
+  },
+  {
+    "question": "What skills are you focused on cultivating right now?"
+  },
+  {
+    "question": "How are you truly doing?"
+  },
+  {
+    "question": "What’s one act of kindness you experienced today?"
+  },
+  {
+    "question": "What do you do for enjoyment?"
+  },
+  {
+    "question": "Do you recharge by being around other people or by spending time alone?"
+  },
+  {
+    "question": "If you had a day to yourself, what would it look like, where would you go, and what would you do?"
+  },
+  {
+    "question": "What is the compliment you receive most often?"
+  },
+  {
+    "question": "Do you collect anything?"
+  },
+  {
+    "question": "What was the last movie you watched?"
+  },
+  {
+    "question": "What’s one thing your loved ones would be surprised to learn about you?"
+  },
+  {
+    "question": "If you woke up one morning and all your problems were solved, how would go about your day?"
+  }
+]

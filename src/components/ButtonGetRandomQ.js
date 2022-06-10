@@ -1,8 +1,6 @@
 import { IconButton, useColorModeValue } from '@chakra-ui/react';
 import { GiPerspectiveDiceSixFacesRandom } from 'react-icons/gi';
 
-import './ButtonGetRandomQ.css';
-
 export const ButtonGetRandomQ = ({ handleGetRandomQuestion }) => {
 	const buttonColor = useColorModeValue('#F09314', '#FCBB62');
 

@@ -3,7 +3,6 @@ import {
 	Box,
 	Text,
 	Grid,
-	Button,
 	GridItem,
 	Flex,
 	IconButton,

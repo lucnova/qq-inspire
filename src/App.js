@@ -5,15 +5,18 @@ import {
 	Grid,
 	GridItem,
 	Flex,
-	IconButton,
+	useColorModeValue,
 } from '@chakra-ui/react';
 import { ColorModeSwitcher } from './ColorModeSwitcher';
-import { GiPerspectiveDiceSixFacesRandom } from 'react-icons/gi';
+
 import { getRandomQuestion } from './helpers/getRandomQuestion';
+import { ButtonGetRandomQ } from './components/ButtonGetRandomQ';
 
 const defaultClass = 'animate__animated animate__fadeIn';
 
 function App() {
+	const pageBg = useColorModeValue('gray.200', 'red.900');
+
 	const [question, setQuestion] = useState(getRandomQuestion());
 	const [animationClass, setAnimationClass] = useState(defaultClass);
 
@@ -23,13 +26,11 @@ function App() {
 	}, [animationClass]);
 
 	const handleGetRandomQuestion = (e) => {
-		e.preventDefault();
-
 		setAnimationClass('animate__animated');
 	};
 
 	return (
-		<Box textAlign="center">
+		<Box textAlign="center" bg={pageBg}>
 			<Grid templateRows='repeat(3, 1fr)' gap={6} h='100vh'>
 				<GridItem w='100%'>
 					<Flex justifyContent='end'>
@@ -39,7 +40,6 @@ function App() {
 
 				<GridItem w='100%' alignSelf='start'>
 					<Text
-						colorScheme='red'
 						fontSize='3rem'
 						px={9}
 						className={animationClass}
@@ -49,16 +49,7 @@ function App() {
 				</GridItem>
 
 				<GridItem w='100%' alignSelf='center'>
-					<IconButton
-						size='lg'
-						icon={<GiPerspectiveDiceSixFacesRandom />}
-						colorScheme='red'
-						variant='solid'
-						onClick={handleGetRandomQuestion}
-						justifySelf="flex-end"
-						fontSize='2.5rem'
-						p={9}
-					/>
+					<ButtonGetRandomQ handleGetRandomQuestion={handleGetRandomQuestion} />
 				</GridItem>
 			</Grid>
 		</Box>
